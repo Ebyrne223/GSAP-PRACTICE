@@ -1,4 +1,7 @@
-# DESN 368 WEB DESIGN 1 STARTER TEMPLATE
+# practice install gsap
 
 > WIP
+
+## Citations
+*Gsap scroll trigger pan
 
